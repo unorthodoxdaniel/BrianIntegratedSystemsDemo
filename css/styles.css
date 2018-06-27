@@ -1,0 +1,44 @@
+body {
+    font-family: Montserrat;
+}
+
+#logo {
+    object-fit: contain;
+}
+
+.box{ 
+    width:100%;
+}
+
+
+.home-display{
+    width: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.home-img{
+
+    z-index: 1;
+    width: 100%;
+    object-fit: cover;
+}
+
+.home-div{
+    margin: auto;
+    position:absolute;
+    z-index: 2;
+
+    color: #ffffff;
+
+    width: 70%;
+    
+}
+
+#footer{
+    display:flex;
+    justify-content: space-around;
+    margin:10px;
+    padding:10px;
+}

@@ -12,15 +12,11 @@
     <!-- <script src ="jquery/jquery-3.3.1.js"></script> -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src ="js/animation.js"></script>
-    <script>
-
-    </script>
-
         
 </head>
     <body>
         <?php include 'includefiles/header.php';?>
-        <button>Click to fade in boxes</button><br><br>
+
 <div class ="tofade1" >
              <div class ="box">
                  <div class ="home-display">

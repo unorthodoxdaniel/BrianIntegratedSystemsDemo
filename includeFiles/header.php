@@ -1,4 +1,4 @@
-<nav class="navbar" role="navigation">
+<nav class="navbar" role="navigation" id="headernavbar">
     <div class = "container-fluid">
         <div class ="navbar-header">
             <a class="navbar-brand" href="#"> Logo Here </a>
@@ -12,3 +12,8 @@
         </ul>
     </div>
 </nav>
+<style>
+    nav{
+        display: none;
+    }
+</style>

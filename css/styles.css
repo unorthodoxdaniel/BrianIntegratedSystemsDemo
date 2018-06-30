@@ -1,6 +1,14 @@
+html {height:100%;}
+
 body {
     font-family: Montserrat;
+    /* background-color: black; */
 }
+
+/* #headerimg{
+    display: none;
+} */
+
 
 #logo {
     object-fit: contain;

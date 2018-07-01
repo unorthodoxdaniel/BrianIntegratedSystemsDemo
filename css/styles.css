@@ -1,7 +1,7 @@
 html {height:100%;}
 
 body {
-    font-family: Montserrat;
+    font-family: 'Montserrat', sans-serif;
     /* background-color: black; */
 }
 
@@ -16,6 +16,10 @@ body {
 
 .box{ 
     width:100%;
+}
+
+.form-group {
+    padding: 20px!important;
 }
 
 
@@ -49,4 +53,16 @@ body {
     justify-content: space-around;
     margin:10px;
     padding:10px;
+}
+
+form {
+    text-transform: capitalize;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.navbar li a {
+    color: #000;
 }
